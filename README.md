@@ -43,6 +43,3 @@
   - Pandas  
   - NumPy  
 
----
-
-## 📂 Project Structure
